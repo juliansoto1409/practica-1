@@ -1,0 +1,56 @@
+header {
+    background-color: #18d518;
+    color: black; 
+    padding: 20px;
+    border-bottom: 1px solid #ccc; 
+}
+
+nav {
+    background-color: transparent;
+}
+.navbar {
+    background-color: transparent !important;
+}
+.fcq {
+    width: 280px; 
+    height: auto; 
+}
+.factur {
+    width: 200px; 
+    height: auto;
+}
+.flex {
+    width: 200px;
+    height: auto;
+}
+.fic {
+    width: 200px; 
+    height: auto; 
+}
+.merca {
+    width: 200px; 
+    height: auto; 
+}
+.fdt {
+    width: 200px; 
+    height: auto; 
+}
+.nav-link {
+    display: flex; 
+    align-items: center;
+  }
+  
+  .nav-link svg {
+    margin-right: 8px;
+  }
+  
+  footer {
+    background-color: #18d518;
+    color: rgb(248, 244, 244); 
+    padding: 20px;
+    border-bottom: 1px solid #ccc; 
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 24px; 
+   }
+   
